@@ -1,11 +1,7 @@
-[![MasterHead](https://wallpaperaccess.com/full/314785.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Keith Chadberc Niven Villanueva</h1>
 <h3 align="center">I'm a passionate programmer looking for new experiences and projects!</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif">
-
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b7/fe/09/b7fe0977bad1950393d6450f32a37ca0.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kisetzuu&label=Profile%20views&color=0e75b6&style=flat" alt="kisetzuu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kisetzuu" alt="kisetzuu" /></a> </p>
 
 - 🌱 I’m currently learning **Programming, and Futures Trading**
 
