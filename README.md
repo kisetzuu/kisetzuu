@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b7/fe/09/b7fe0977bad1950393d6450f32a37ca0.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kisetzuu&label=Profile%20views&color=0e75b6&style=flat" alt="kisetzuu" /> </p>
 
-- 🌱 I’m currently learning **Programming, and Futures Trading**
+- 🌱 I’m currently learning **Programming, Machine Learning, and AI**
 
 - 📫 How to reach me **kisey.work@gmail.com**
 
