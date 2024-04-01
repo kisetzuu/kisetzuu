@@ -1,0 +1,25 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs at midnight to update the snake game daily
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Generate snake game
+      uses: Platane/snk@v2.0.0
+      with:
+        github_user_name: your-github-username
+        svg_out_path: dist/github-contribution-grid-snake.svg
+
+    - name: Deploy
+      uses: crazy-max/ghaction-github-pages@v2
+      with:
+        target_branch: main
+        build_dir: dist
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
