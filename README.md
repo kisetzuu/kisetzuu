@@ -1,6 +1,7 @@
 # 💫 About Me:
-🌙 I am currently learning Machine Learning, Deep Learning, Python, and AI.<br>
-
+📚 I am currently learning Machine Learning, Deep Learning, Python, and AI.<br>
+🎓 2nd-year Computer Engineering student @ CIT-U.<br>
+📊 DataCamp Scholar @ GDSC-USC. <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kisetzuu) 
