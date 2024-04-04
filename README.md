@@ -1,6 +1,5 @@
 <p align="center">
-  <h1 align="center">Hi 👋, I'm Keith Chadberc Niven Villanueva</h1>
-  <h3 align="center">Machine Learning / Data Scientist Trainee</h3>
+  <h1 align="center">Machine Learning / Data Scientist Trainee</h1>
 </p>
 
 # 💫 About Me:
