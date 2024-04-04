@@ -1,3 +1,8 @@
+<p align="center">
+  <h1 align="center">Hi 👋, I'm Keith Chadberc Niven Villanueva</h1>
+  <h3 align="center">Machine Learning / Data Scientist Trainee</h3>
+</p>
+
 # 💫 About Me:
 📚 I am currently learning Machine Learning, Deep Learning, Python, and AI.<br>
 🎓 2nd-year Computer Engineering student @ CIT-U.<br>
