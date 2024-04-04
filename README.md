@@ -11,6 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://instagram.com/kisetzuu" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" style="margin-right: 8px;"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
