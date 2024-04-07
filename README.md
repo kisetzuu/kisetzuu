@@ -10,7 +10,7 @@
 📈 Data Literacy Professional<br>
 🎮 Game Designer<br>
 
-# 🏆 Certifications @ DataCamp
+# 🏆 DataCamp
 ⭐ AI Fundamentals
 
 ## 🌐 Socials:
