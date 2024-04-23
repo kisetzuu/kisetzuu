@@ -14,14 +14,22 @@ jobs:
 
       - name: Generate snake game
         uses: Platane/snk@v2.0.0
+        id: snake
         with:
           github_user_name: kisetzuu
           svg_out_path: dist/github-snake.svg
 
+      - name: Check output
+        if: failure()
+        run: echo "The snake generation step failed."
+
       - name: Commit files
+        if: success()
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git fetch --all
+          git checkout main  # Ensure you are on the main branch, adjust if using a different branch
           git add dist/github-snake.svg
           git commit -m "Generate snake game" -a || echo "No changes to commit"
-          git push
+          git push origin main  # Explicitly pushing to the main branch
