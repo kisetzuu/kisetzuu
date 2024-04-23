@@ -11,7 +11,7 @@
 🎮 Game Designer<br>
 
 # 🏆 DataCamp
-🥇 Machine Learning Engineer:
+🥇 Machine Learning:
 <br>https://www.datacamp.com/statement-of-accomplishment/track/ac196a330cf08dc9c8c51e8d3ffbb6e99f6e633b?raw=1</br>
 
 ## 🌐 Socials:
