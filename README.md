@@ -13,6 +13,8 @@
 # 🏆 DataCamp
 🥇 Machine Learning:
 <br>https://www.datacamp.com/statement-of-accomplishment/track/ac196a330cf08dc9c8c51e8d3ffbb6e99f6e633b?raw=1</br>
+🥇 Data Literacy:
+<br>https://www.datacamp.com/statement-of-accomplishment/track/eb4f879f144777cfff2603651bdb02fec95a4280?raw=1</br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kisetzuu) 
