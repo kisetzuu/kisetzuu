@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">Hi 👋, I'm Keith Chadberc Niven Villanueva</h1>
-  <h3 align="center">2nd-year Computer Engineering student @ CIT-U | DataCamp Scholar @ GDSC-USC | Game Designer | Data Literacy Professional</h3>
+  <h3 align="center">Aspiring AI/ Software Engineer </h3>
 </p>
 
 # 💫 About Me:
