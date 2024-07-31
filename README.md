@@ -17,7 +17,7 @@
 <br>https://www.datacamp.com/statement-of-accomplishment/track/eb4f879f144777cfff2603651bdb02fec95a4280?raw=1</br>
 
 # 📝 Medium
-✏️"Advanced Machine Learning Techniques for General Weather Forecasting: A Comparison of Prophet and LSTM Models"
+✏️ "Advanced Machine Learning Techniques for General Weather Forecasting: A Comparison of Prophet and LSTM Models"
 <br> https://medium.com/@keithvillanueva213/advanced-machine-learning-techniques-for-general-weather-forecasting-a-comparison-of-prophet-and-227b539a22b6 </br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kisetzuu) 
