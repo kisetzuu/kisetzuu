@@ -6,8 +6,6 @@
 📚 I am currently learning Machine Learning, Deep Learning, Python, and AI<br>
 🎓 3rd-year Computer Engineering student @ CIT-U<br>
 📊 DataCamp Scholar @ GDSC-USC<br>
-📈 Data Literacy Professional<br>
-🎮 Game Designer<br>
 
 # 🏆 DataCamp
 🥇 Machine Learning:
